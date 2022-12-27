@@ -5,10 +5,11 @@ A template for a typescript nodejs application.
 The template uses nodemon and ts-node to continously watch your file during development.
 
 The template has the following commands:
-    - npm install (to install all dependencies)
-    - npm run dev or nodemon (for development)
-    - npm build (to transpile the application into js)
-    - npm start (to run in production)
+
+- npm install (to install all dependencies)
+- npm run dev or nodemon (for development)
+- npm build (to transpile the application into js)
+- npm start (to run in production)
 
 ## Contributions
 
